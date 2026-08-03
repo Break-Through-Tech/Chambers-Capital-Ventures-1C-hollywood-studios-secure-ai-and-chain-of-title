@@ -41,7 +41,7 @@ The project presents a compelling intersection of creative arts and AI technolog
 # Hollywood Studios Secure AI and Chain of Title
 
 **Company / Org:** Chambers Capital Ventures  
-**Challenge Advisor:** Chris Chambers, chrisc@theeinsteinbridge.com  
+**Challenge Advisor:** Maher Hasan, [Email address]     
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
