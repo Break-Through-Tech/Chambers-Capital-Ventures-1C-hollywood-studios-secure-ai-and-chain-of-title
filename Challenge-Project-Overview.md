@@ -41,7 +41,7 @@ The project presents a compelling intersection of creative arts and AI technolog
 # Hollywood Studios Secure AI and Chain of Title
 
 **Company / Org:** Chambers Capital Ventures  
-**Challenge Advisor:** Maher Hasan, [Email address]     
+**Challenge Advisor:** Maher Hasan, [mmmaherhasan@gmail.com](mailto:mmmaherhasan@gmail.com)     
 **AI Studio Coach:** Deanna DiMonte, [deanna.dimonte@breakthroughtech.org](mailto:deanna.dimonte@breakthroughtech.org)   
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
