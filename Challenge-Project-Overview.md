@@ -42,6 +42,7 @@ The project presents a compelling intersection of creative arts and AI technolog
 
 **Company / Org:** Chambers Capital Ventures  
 **Challenge Advisor:** Maher Hasan, [Email address]     
+**AI Studio Coach:** Deanna DiMonte, [deanna.dimonte@breakthroughtech.org](mailto:deanna.dimonte@breakthroughtech.org)   
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
