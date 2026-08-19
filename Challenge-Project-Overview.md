@@ -98,10 +98,9 @@
   **Name and Source:** IMDb Non-Commercial Datasets (title, ratings, crew, and episode data) + TMDB API (revenue,
   popularity signals, and streaming watch-provider data), supplemented by the project's curated `comp_references`
   benchmark database (~25 film/TV titles with budget tiers, domestic/international box office, platform, and audience
-  demographics)
-  **Format:** IMDb: gzipped TSV files; TMDB: JSON via REST API; comp references: PostgreSQL (seeded from `schema.sql`)
-
-  **Size:** 1gb to 5gb
+  demographics)  
+  **Format:** IMDb: gzipped TSV files; TMDB: JSON via REST API; comp references: PostgreSQL (seeded from `schema.sql`)  
+  **Size:** 1gb to 5gb  
   **Location:** IMDb: [datasets.imdbws.com](https://datasets.imdbws.com) • TMDB:
   [developer.themoviedb.org](https://developer.themoviedb.org/docs) (free API key required) • Comp references:
   `schema.sql` and `api/vault/_comp-references.ts` in this repository
