@@ -184,5 +184,4 @@
 
   ## ❓ Questions?
 
-  Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio
-   - Session C).
+  Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session C).
